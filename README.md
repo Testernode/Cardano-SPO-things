@@ -15,3 +15,5 @@ find /opt/cardano/cnode/logs/archive/ -mtime +1 -name "*.json" -print -exec /bin
 https://cardano-community.github.io/guild-operators/
 # Latest cardano node releases
 https://github.com/input-output-hk/cardano-node/releases
+# How to Add Swap Space on Ubuntu
+https://linuxize.com/post/how-to-add-swap-space-on-ubuntu-18-04/
