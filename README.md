@@ -11,3 +11,5 @@ Delete Cardano pool logs older than 1 day
 ```bash
 find /opt/cardano/cnode/logs/archive/ -mtime +1 -name "*.json" -print -exec /bin/rm {} \;
 ```
+# Guild Operators scripts page CNTOOLS
+https://cardano-community.github.io/guild-operators/
