@@ -17,3 +17,5 @@ https://cardano-community.github.io/guild-operators/
 https://github.com/input-output-hk/cardano-node/releases
 # How to Add Swap Space on Ubuntu
 https://linuxize.com/post/how-to-add-swap-space-on-ubuntu-18-04/
+# Cardano stake pool checker
+https://pool.vet/
