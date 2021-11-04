@@ -13,3 +13,5 @@ find /opt/cardano/cnode/logs/archive/ -mtime +1 -name "*.json" -print -exec /bin
 ```
 # Guild Operators scripts page CNTOOLS
 https://cardano-community.github.io/guild-operators/
+# Latest cardano node releases
+https://github.com/input-output-hk/cardano-node/releases
